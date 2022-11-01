@@ -11,6 +11,8 @@
 <h2>🏆 Github Stats</h2>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neogopher&theme=onestar&column=3" /></a>
+  <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neogopher&count_private=true&show_icons=true&theme=radical&hide_rank=false" /></a>
   <br/>
   <img height="150" width="150" src="WEBP/left.webp">
