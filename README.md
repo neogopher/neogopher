@@ -7,7 +7,11 @@
 <li> 👯 Looking to collaborate on Go and Kubernetes-based projects</li>
 </ul><br>
 
+<h2>🏆 Github Stats</h2>
+
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neogopher&count_private=true&show_icons=true&theme=radical&hide_rank=false" /></a>
+  <br/>
   <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=neogopher&theme=dark-smoky&fire=DD2727"/>
   <img height="150" width="150" src="WEBP/right.webp">
@@ -29,11 +33,9 @@
 <tr>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neogopher)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td>
 
-[![neogopher's github stats](https://github-readme-stats.vercel.app/api?username=neogopher&count_private=true&show_icons=true&theme=slateorange&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
