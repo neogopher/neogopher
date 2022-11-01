@@ -18,29 +18,19 @@
 </p>
 
 
-
-📫 You can find me on <br>
-[![](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachinlobo)
-
+<h2>🤝 Let's stay connected!</h2>
+<a href="https://www.linkedin.com/in/sachinlobo/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <!--<a href="https://twitter.com/TheAdityaGarde" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>-->  &nbsp;  <!--<a href="https://leetcode.com/AdityaGarde/" target="_blank"><img src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" width=40px height=40px title=""/></a>-->
+    <br/>
+    <br/>
+<a href="#">
+    <img src="https://komarev.com/ghpvc/?username=neogopher">
+</a>
 
 <br/>
 
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neogopher&theme=soft-green&fire=DD2727)](https://git.io/streak-stats)-->
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td>
-
-
-</td><td>
-
-
-</td>
-</tr>
-</tbody>
-</table>
 
 <!--
 **neogopher/neogopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
