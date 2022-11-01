@@ -7,12 +7,22 @@
 <li> 👯 Looking to collaborate on Go and Kubernetes-based projects</li>
 </ul><br>
 
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=neogopher&theme=dark-smoky&fire=DD2727"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
+
+
+
 📫 You can find me on <br>
 [![](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sachinlobo)
 
 
 <br/>
 
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neogopher&theme=soft-green&fire=DD2727)](https://git.io/streak-stats)-->
 
 <table cellspacing="0" cellpadding="0">
 <tbody>
