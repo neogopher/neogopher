@@ -34,9 +34,18 @@
     <a title="Kubernetes" href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg" alt="kubernetes" width="42" height="42" />
     </a>
-    <!--<a title="Helm" href="https://helm.sh/docs/" target="_blank">
-        <img src="resources/helm.svg" alt="Helm" width="42" height="42" />
+    <!--<a title="Helm" href="https://helm.sh" target="_blank">
+        <img src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg" alt="Helm" width="42" height="42" />
     </a>-->
+    <a title="Contour" href="https://projectcontour.io" target="_blank">
+        <img src="https://cncf-branding.netlify.app/img/projects/contour/icon/color/contour-icon-color.svg" alt="contour" width="42" height="42" />
+    </a>
+    <a title="Cert-Manager" href="https://cert-manager.io" target="_blank">
+        <img src="https://landscape.cncf.io/logos/cert-manager.svg" alt="cert-manager" width="42" height="42" />
+    </a>
+    <a title="VCluster" href="https://www.vcluster.com" target="_blank">
+        <img src="https://landscape.cncf.io/logos/vcluster.svg" alt="vcluster" width="42" height="42" />
+    </a>
     <a title="AWS" href="https://aws.amazon.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="42" height="42" />
     </a>
