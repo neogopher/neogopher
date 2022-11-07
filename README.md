@@ -49,8 +49,8 @@
     <a title="Ginkgo" href="https://onsi.github.io/ginkgo/" target="_blank">
         <img src="https://onsi.github.io/ginkgo/images/ginkgo.png" alt="vcluster" width="102" height="35" />
     </a>
-    <a title="Cobra" href="https://onsi.github.io/ginkgo/" target="_blank">
-        <img src="https://cobra.dev/home/logo.png" alt="vcluster" width="35" height="37" />
+    <a title="Cobra" href="https://github.com/spf13/cobra" target="_blank">
+        <img src="https://cobra.dev/home/logo.png" alt="vcluster" width="33" height="37" />
     </a>
     <a title="AWS" href="https://aws.amazon.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="42" height="42" />
