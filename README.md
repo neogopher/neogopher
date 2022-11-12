@@ -38,7 +38,7 @@
         <img src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg" alt="Helm" width="42" height="42" />
     </a>-->
     <a title="Contour" href="https://projectcontour.io" target="_blank">
-        <img src="https://cncf-branding.netlify.app/img/projects/contour/icon/color/contour-icon-color.svg" alt="contour" width="42" height="42" />
+        <img src="https://raw.githubusercontent.com/cncf/artwork/5c366dcd259f46fac040a12545ad17115ef6a3cc/projects/contour/icon/color/contour-icon-color.svg" alt="contour" width="42" height="42" />
     </a>
     <a title="Cert-Manager" href="https://cert-manager.io" target="_blank">
         <img src="https://landscape.cncf.io/logos/cert-manager.svg" alt="cert-manager" width="42" height="42" />
