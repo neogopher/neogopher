@@ -34,9 +34,9 @@
     <a title="Kubernetes" href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg" alt="kubernetes" width="42" height="42" />
     </a>
-    <!--<a title="Helm" href="https://helm.sh" target="_blank">
+    <a title="Helm" href="https://helm.sh" target="_blank">
         <img src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.svg" alt="Helm" width="42" height="42" />
-    </a>-->
+    </a>
     <a title="Contour" href="https://projectcontour.io" target="_blank">
         <img src="https://raw.githubusercontent.com/cncf/artwork/5c366dcd259f46fac040a12545ad17115ef6a3cc/projects/contour/icon/color/contour-icon-color.svg" alt="contour" width="42" height="42" />
     </a>
