@@ -1,5 +1,4 @@
-<img src="https://github-cool-covers.vercel.app/api/get-cover?username=neogopher&text=Hi%20there!!+I%27m+Sachin%20Lobo&fontFamily=Roboto&pattern=p2&textFontSize=5rem"  width="100%">
-
+<h1>Hi I'm Sachin Lobo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </h1>
 
 <ul>
 <li> 🌱 I like to learn something new and grow every day</li>
