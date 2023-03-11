@@ -94,12 +94,12 @@
 <br>
 <h2>🏆 Github Stats</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neogopher&theme=onestar&column=4" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neogopher&theme=flat&no-bg=true&no-frame=true" /></a>
   <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neogopher&count_private=true&show_icons=true&theme=radical&hide_rank=false" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neogopher&count_private=true&show_icons=true&theme=flag-india&hide_rank=false" /></a>
   <br/>
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=neogopher&theme=dark-smoky&fire=DD2727"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=neogopher&theme=ayu-light&fire=DD2727"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
